@@ -25,7 +25,9 @@
 14. HTML
 15. GFM Extention
 
+
 ---
+
 
 ## 1. 제목 (Heading)
 - level 1부터 level 6까지 6가지의 크기로 표현할 수 있다. 
@@ -391,6 +393,7 @@
 *예시*
 ![34270F6D-CE6D-49EC-95EC-4D36324490C7](https://user-images.githubusercontent.com/81100851/112842080-27363180-90dc-11eb-8fd4-baa3b5387e66.png)
 ![35E2F2CB-EE2C-415E-B74B-605F4AE267EE](https://user-images.githubusercontent.com/81100851/112842091-29988b80-90dc-11eb-9b49-44cf66c917bd.png)
+
 
 ---
 
