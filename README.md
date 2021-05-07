@@ -4,44 +4,75 @@
 
 
 
-------
+----
 
 
 # Github 사용법 
 
-1. Github를 이용하기 위해 우선, 아래와 같이 Github site에 들어간다. 
+1. Github를 이용하기 위해 우선, 아래와 같이 **Github site**에 들어간다. 
+
+[Github site URL로 이동하려면 클릭하세요!](https://github.com/)
+
+본 작업자(저자)는 Github 사용시 Exlpore가 아닌 **Chrome**사용을 권장한다. 
+
 
 <img width="960" alt="github" src="https://user-images.githubusercontent.com/81100851/116904208-6118cb80-ac78-11eb-9658-2f05e9916226.png">
-  
+
+---
     
-2. Github에 로그인한다. 
+2. Github에 **로그인**한다. 
 
 <img width="700" height="400" alt="sign in github" src="https://user-images.githubusercontent.com/81100851/116904219-6249f880-ac78-11eb-861b-c56a5585b682.png">
 
-  
+---
 
-3. 다음과 같은 화면에서, 초록색 버튼 `new` 를 클릭하여 `new repository`를 만든다. 
+3. Github에 **저장소 repository를 생성**해볼것이다. 
 
-<img width="960" alt="new repository" src="https://user-images.githubusercontent.com/81100851/116904214-61b16200-ac78-11eb-8c90-e42f2acb8d65.png">
-<img width="900" alt="create new repository" src="https://user-images.githubusercontent.com/81100851/116904204-5fe79e80-ac78-11eb-8da4-cba53ea1cdd3.png">
+다음과 같은 화면에서, 초록색 버튼 `new` 를 클릭하여 `new repository`를 만든다. 
 
-이는 새로운 저장소를 만듦으로서 코드를 저장할 공간을 마련하는 것이다. 
 
-   
-     
-<img width="953" alt="repository real 주소" src="https://user-images.githubusercontent.com/81100851/116904216-61b16200-ac78-11eb-80a7-ad33af8a8160.png">
+<img width="900" alt="create new repository" src="https://user-images.githubusercontent.com/81100851/116904204-5fe79e80-ac78-11eb-8da4-cba53ea1cdd3.png"> 
+
+작업자는 `new repository`가 (1) 다른 개발자들과 공유할 수 있도록 할 것인지, (2) 자신만의 저장소로 사용할 것인지 여부에 따라 
+
+(1) Public (2) Private 를 선택하면 된다.
+
+___
+
+<img width="900" alt="2" src="https://user-images.githubusercontent.com/81100851/117498776-36e74680-afb5-11eb-8cba-a1eac1806b02.png">
+
+ 
+본 과정은, 작업자가 새로운 저장소를 만듦으로서 코드 소스를 저장할 공간을 마련하는 것이다. 
+
+이 저장소를 통해 작업자는 Github를 이용하는 다른 작업자들과 소스 코드를 공유할 수 있다. 
+
+즉, **Github의 장점 : 다른 개발자들과 협업을 가능케 한다.**
+
+
+이때, 아래 이미지에 보이는 것처럼 개발자는 `code` 버튼을 이용하여 저장소의 URL을 통해 소스코드를 공유할 수 있다. 
+
+---
+
+<img width="900" alt="1" src="https://user-images.githubusercontent.com/81100851/117498770-3484ec80-afb5-11eb-8887-278e1cb0b684.png">
+
+
+개발자는 Github의 repository URL을 이용하여 
+
+(1) 다른 개발자의 소스 코드를 다운로드하여 자신의 프로젝트에 적용할 수 있고 , (2) 자신의 소스 코드를 다른 개발자들과 공유하여 공동 프로젝트를 개발할 수 있다. 
 
 <img width="960" height="400" alt="repository 주소" src="https://user-images.githubusercontent.com/81100851/116904218-6249f880-ac78-11eb-9521-c24e9594dd77.png">
 
+4. **repository 삭제하기**
 
-먼저, 
-비어있는 새 파일에 대해 git bash 를 이용하여 다음의 `git 명령어`들을 사용할 것이다. 
+작업자는 (1) `setting`에 들어간 후, (2) 스크롤을 내려 화면의 마지막 부분에 있는 `repository delete` 를 클릭한다. 
 
-
--------------
-
+(3) **본인 Github 아이디/삭제할 해당 repository 이름** 을 입력하여 삭제 확인 작업을 해준다. (4) Github에 다시 로그인 해주면 respository를 삭제할 수 있다. 
 
 
+---
+
+
+# Git 프로그램의 콘솔 명령어 사용하기 
 
 # init
 
