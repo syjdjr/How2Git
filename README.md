@@ -39,8 +39,8 @@
 
 ___
 
-<img width="900" alt="2" src="https://user-images.githubusercontent.com/81100851/117498776-36e74680-afb5-11eb-8cba-a1eac1806b02.png">
 
+<img width="900" alt="1" src="https://user-images.githubusercontent.com/81100851/117498770-3484ec80-afb5-11eb-8887-278e1cb0b684.png">
  
 본 과정은, 작업자가 새로운 저장소를 만듦으로서 코드 소스를 저장할 공간을 마련하는 것이다. 
 
@@ -53,14 +53,14 @@ ___
 
 ---
 
-<img width="900" alt="1" src="https://user-images.githubusercontent.com/81100851/117498770-3484ec80-afb5-11eb-8887-278e1cb0b684.png">
-
+<img width="960" height="400" alt="repository 주소" src="https://user-images.githubusercontent.com/81100851/116904218-6249f880-ac78-11eb-9521-c24e9594dd77.png">
 
 개발자는 Github의 repository URL을 이용하여 
 
 (1) 다른 개발자의 소스 코드를 다운로드하여 자신의 프로젝트에 적용할 수 있고 , (2) 자신의 소스 코드를 다른 개발자들과 공유하여 공동 프로젝트를 개발할 수 있다. 
 
-<img width="960" height="400" alt="repository 주소" src="https://user-images.githubusercontent.com/81100851/116904218-6249f880-ac78-11eb-9521-c24e9594dd77.png">
+
+<img width="900" alt="2" src="https://user-images.githubusercontent.com/81100851/117498776-36e74680-afb5-11eb-8cba-a1eac1806b02.png">
 
 4. **repository 삭제하기**
 
