@@ -1,6 +1,5 @@
 [Github repository](https://github.com/syjdjr/this-.git)
 
-# 과제 2 보고서 ( 20201857 손유진 ) 
 
 
 
